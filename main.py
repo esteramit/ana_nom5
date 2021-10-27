@@ -1,5 +1,5 @@
 
 print('PyCharm67890ssssssssssssssss')
 print('PyCharm67890ssssssssssssssss')
-print('like')
+print('like sssss')
 
